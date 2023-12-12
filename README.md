@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant2397&label=Profile%20views&color=0e75b6&style=flat" alt="hemant2397" /> </p>
 
-- 👀 I’m interested in Data Science and Analytics, Python Development, Machine learning, Artificial intelligence, Power-Bi, Tableau.
+- 👀 I’m interested in Data Science and Analytics, Python Development, Machine learning, Artificial intelligence, Power-Bi, and Tableau.
 
 - 🌱 I’m currently learning **Business Analytics**
 
-- 💞️ I’m looking to collaborate on Data Science and Analytics, Python Development, Machine learning, Artificial intelligence based projects.
+- 💞️ I’m looking to collaborate on Data Science and Analytics, Python Development, Machine learning, and Artificial intelligence-based projects.
 
-- ✨ I love exploring nature ,cooking, Boxing and shaping my innovative ideas into reality.
+- ✨ I love exploring nature, cooking, Boxing, and shaping my innovative ideas into reality.
 
-- 👨‍💻 I have experience of data science consulting and now am currently working on CMS/ security based project that time work on Computer Vision, Artificial intelligence, Security alerts detection using AI, YOLO V8.
+- 👨‍💻 I have experience in data science consulting and am currently working on a CMS/security-based project I work on Computer Vision, Artificial intelligence, Security alerts detection using AI, and YOLO-V8.
 
 - 💬 Ask me about ... Python, Computer Vision, Machine Learning, SQL, etc.
 
